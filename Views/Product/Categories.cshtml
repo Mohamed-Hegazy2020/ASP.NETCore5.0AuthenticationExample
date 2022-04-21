@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
+@using ASP.NETCore5._0AuthenticationExample.Constants
+<h1>Categories Management</h1>
+<br />
+@if ((AuthorizationService.AuthorizeAsync(User, "Permissions.Categories.Create")).Result.Succeeded)
+{
+    <button class="btn btn-success">Create</button>
+}
+@if ((AuthorizationService.AuthorizeAsync(User, "Permissions.Categories.View")).Result.Succeeded)
+{
+    <button class="btn btn-info">View</button>
+}
+@if ((AuthorizationService.AuthorizeAsync(User, "Permissions.Categories.Edit")).Result.Succeeded)
+{
+    <button class="btn btn-warning">Modify</button>
+}
+@if ((AuthorizationService.AuthorizeAsync(User, "Permissions.Categories.Delete")).Result.Succeeded)
+{
+    <button class="btn btn-danger">Delete</button>
+    }
