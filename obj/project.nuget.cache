@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIQTW3gFpkeP/kQNtNNruZsQss3QXX1l6pOChXqLbT1mh1O1SfRAZlnIh+C1oXIywx2dQhtcntdR6HCUdrrrqw==",
+  "dgSpecHash": "o9e5c+ZwJ1FvjkaGmfCBkvL1TWmX8iMhwg7ubK+eyIyjJuL4bN5panOulxQIL3SaTMxFQ4h/i1VDlkhHg2aUSA==",
   "success": true,
-  "projectFilePath": "F:\\sys programs\\Traning progects\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
+  "projectFilePath": "F:\\sys programs\\myGithubProfile\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TOSHIBA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

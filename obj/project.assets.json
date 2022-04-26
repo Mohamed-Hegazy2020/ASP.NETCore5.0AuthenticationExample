@@ -8042,11 +8042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\sys programs\\Traning progects\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
+      "projectUniqueName": "F:\\sys programs\\myGithubProfile\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
       "projectName": "ASP.NETCore5.0AuthenticationExample",
-      "projectPath": "F:\\sys programs\\Traning progects\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
+      "projectPath": "F:\\sys programs\\myGithubProfile\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample.csproj",
       "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
-      "outputPath": "F:\\sys programs\\Traning progects\\ASP.NETCore5.0AuthenticationExample\\obj\\",
+      "outputPath": "F:\\sys programs\\myGithubProfile\\ASP.NETCore5.0AuthenticationExample\\ASP.NETCore5.0AuthenticationExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
